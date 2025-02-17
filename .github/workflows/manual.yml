@@ -29,7 +29,7 @@ jobs:
 
       - name: Run Cypress Tests with Cypress Cloud        
         run: |
-          npx cypress run --config video=true --env allure=true
+          npx cypress run
         continue-on-error: true
       
       - name: Upload Allure Results
