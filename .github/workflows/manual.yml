@@ -38,6 +38,16 @@ jobs:
           name: allure-results
           path: allure-results
 
+      - name: Install jq
+        run: sudo apt-get install jq
+  
+      - name: Clean Up Allure Results
+        run: |
+          for file in allure-results/*.json; do
+            jq 'walk(if type == "object" and .excluded then del(.excluded) else . end)' "$file" > temp.json && mv temp.json "$file"
+          done
+        continue-on-error: true
+
       - name: Generate Allure Report
         run: |
           curl -o allure-commandline.zip -L "https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.13.9/allure-commandline-2.13.9.zip"
