@@ -1,5 +1,26 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "fv-az1770-999",
+    "children" : [ {
+      "name" : "pid-2286-worker-main",
+      "children" : [ {
+        "name" : "Login bem-sucedido",
+        "uid" : "8edb27cf5dcacaa9",
+        "parentUid" : "c44aada16a1c63f3d2e1e3c3b70d84be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1739764126490,
+          "stop" : 1739764128930,
+          "duration" : 2440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1" ]
+      } ],
+      "uid" : "c44aada16a1c63f3d2e1e3c3b70d84be"
+    } ],
+    "uid" : "33580d4084c2112f144e2108337d9a0c"
+  } ]
 }

@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "uid" : "8edb27cf5dcacaa9",
+  "name" : "Login bem-sucedido",
+  "time" : {
+    "start" : 1739764126490,
+    "stop" : 1739764128930,
+    "duration" : 2440
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

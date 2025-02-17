@@ -1,5 +1,18 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Login bem-sucedido",
+    "uid" : "8edb27cf5dcacaa9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1739764126490,
+      "stop" : 1739764128930,
+      "duration" : 2440
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "1" ]
+  } ]
 }

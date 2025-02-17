@@ -1,7 +1,11 @@
 [ {
   "buildOrder" : 0,
-  "data" : { }
+  "data" : {
+    "Test passed" : 1
+  }
 }, {
   "buildOrder" : 0,
-  "data" : { }
+  "data" : {
+    "Test passed" : 1
+  }
 } ]

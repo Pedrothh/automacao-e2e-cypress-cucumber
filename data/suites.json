@@ -1,5 +1,22 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Login",
+    "children" : [ {
+      "name" : "Login bem-sucedido",
+      "uid" : "8edb27cf5dcacaa9",
+      "parentUid" : "1a85855463aca3ea10b8fe0fcb3372b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739764126490,
+        "stop" : 1739764128930,
+        "duration" : 2440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1" ]
+    } ],
+    "uid" : "1a85855463aca3ea10b8fe0fcb3372b8"
+  } ]
 }
