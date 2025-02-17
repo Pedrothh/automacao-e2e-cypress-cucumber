@@ -15,4 +15,5 @@ When("clico no botão Entrar", () => {
 
 Then("eu devo ser redirecionado para a página inicial", () => {
   cy.url().should("include", "/home");
+  cy.screenshot();
 });
