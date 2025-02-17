@@ -6,13 +6,13 @@
     "children" : [ {
       "children" : [ {
         "name" : "Login bem-sucedido",
-        "uid" : "8edb27cf5dcacaa9",
+        "uid" : "a8b0c1d77e2a80a",
         "parentUid" : "9c80a0c1559ab612131af073d4d469b3",
         "status" : "passed",
         "time" : {
-          "start" : 1739764126490,
-          "stop" : 1739764128930,
-          "duration" : 2440
+          "start" : 1739764788866,
+          "stop" : 1739764791328,
+          "duration" : 2462
         },
         "flaky" : false,
         "newFailed" : false,

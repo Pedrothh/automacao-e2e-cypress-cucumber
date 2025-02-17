@@ -2,25 +2,25 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az1770-999",
+    "name" : "fv-az1701-66",
     "children" : [ {
-      "name" : "pid-2286-worker-main",
+      "name" : "pid-2281-worker-main",
       "children" : [ {
         "name" : "Login bem-sucedido",
-        "uid" : "8edb27cf5dcacaa9",
-        "parentUid" : "c44aada16a1c63f3d2e1e3c3b70d84be",
+        "uid" : "a8b0c1d77e2a80a",
+        "parentUid" : "bde7bd8431e1012645b4631f40dcab29",
         "status" : "passed",
         "time" : {
-          "start" : 1739764126490,
-          "stop" : 1739764128930,
-          "duration" : 2440
+          "start" : 1739764788866,
+          "stop" : 1739764791328,
+          "duration" : 2462
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "1" ]
       } ],
-      "uid" : "c44aada16a1c63f3d2e1e3c3b70d84be"
+      "uid" : "bde7bd8431e1012645b4631f40dcab29"
     } ],
-    "uid" : "33580d4084c2112f144e2108337d9a0c"
+    "uid" : "0049ed2bbf6baaf6e5ba8a8e291a7d4d"
   } ]
 }
