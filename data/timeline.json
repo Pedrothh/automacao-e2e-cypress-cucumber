@@ -2,25 +2,51 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az1276-752",
+    "name" : "fv-az1689-566",
     "children" : [ {
-      "name" : "pid-2303-worker-main",
+      "name" : "pid-2291-worker-main",
       "children" : [ {
-        "name" : "Login bem-sucedido",
-        "uid" : "24dd119f42d840f0",
-        "parentUid" : "7bc10c5ba43b064d1edd54a940ec56fa",
+        "name" : "Logout bem-sucedido",
+        "uid" : "8614220d15c7dcc1",
+        "parentUid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e",
         "status" : "passed",
         "time" : {
-          "start" : 1739839426636,
-          "stop" : 1739839428962,
-          "duration" : 2326
+          "start" : 1739845938201,
+          "stop" : 1739845939535,
+          "duration" : 1334
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1" ]
+        "parameters" : [ ]
+      }, {
+        "name" : "Login bem-sucedido",
+        "uid" : "359b1113aa4afaf7",
+        "parentUid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1739845930485,
+          "stop" : 1739845932501,
+          "duration" : 2016
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login com senha inválida",
+        "uid" : "2fb1c0681556349b",
+        "parentUid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1739845932841,
+          "stop" : 1739845933805,
+          "duration" : 964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
       } ],
-      "uid" : "7bc10c5ba43b064d1edd54a940ec56fa"
+      "uid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e"
     } ],
-    "uid" : "b3bb35bcdd1d2d58654a10eb0cfdf655"
+    "uid" : "c9103e1289de6646e13bf221c67426d3"
   } ]
 }
