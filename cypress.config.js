@@ -31,7 +31,7 @@ module.exports = defineConfig({
   videosFolder: 'cypress/videos',
   screenshotOnRunFailure: true,
   video: true,
-  retries: 1,
+  retries: 0,
   defaultCommandTimeout: 4000,
   responseTimeout: 30000,
   pageLoadTimeout: 60000,

@@ -29,7 +29,7 @@ jobs:
 
       - name: Run Cypress Tests with Cypress Cloud        
         run: |
-          npx cypress run --config video=true --env allure=true
+          npx cypress run
         continue-on-error: true
       
       - name: Upload Allure Results
@@ -37,6 +37,16 @@ jobs:
         with:
           name: allure-results
           path: allure-results
+
+      - name: Install jq
+        run: sudo apt-get install jq
+  
+      - name: Clean Up Allure Results
+        run: |
+          for file in allure-results/*.json; do
+            jq 'walk(if type == "object" and .excluded then del(.excluded) else . end)' "$file" > temp.json && mv temp.json "$file"
+          done
+        continue-on-error: true
 
       - name: Generate Allure Report
         run: |
