@@ -1,4 +1,4 @@
-# 🚀 Automação de Testes de API com Cypress, Cucumber e Allure
+# 🚀 Automação de Testes de e2e Web com Cypress, Cucumber e Allure
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedrothh/automacao-e2e-cypress-cucumber)
@@ -8,7 +8,7 @@
 
 ## 📌 Descrição
 
-Este projeto é uma automação de testes de API utilizando Cypress para execução de testes, Cucumber para escrita de cenários em BDD e Allure para geração de relatórios detalhados.
+Este projeto é uma automação de testes de e2e Web utilizando Cypress para execução de testes, Cucumber para escrita de cenários em BDD e Allure para geração de relatórios detalhados.
 
 ![image](https://github.com/user-attachments/assets/0cae14bd-469a-4e98-8821-db907911d3fc)
 ![image](https://github.com/user-attachments/assets/b6f3bd65-6423-4037-9b42-c1199e387807)
