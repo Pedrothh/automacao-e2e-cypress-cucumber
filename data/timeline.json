@@ -2,51 +2,51 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az1689-566",
+    "name" : "fv-az1692-322",
     "children" : [ {
-      "name" : "pid-2291-worker-main",
+      "name" : "pid-2325-worker-main",
       "children" : [ {
         "name" : "Logout bem-sucedido",
-        "uid" : "8614220d15c7dcc1",
-        "parentUid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e",
+        "uid" : "c7b2ff0652685005",
+        "parentUid" : "6f85345dcaa3bf65d3c43b78d5f33fc1",
         "status" : "passed",
         "time" : {
-          "start" : 1739845938201,
-          "stop" : 1739845939535,
-          "duration" : 1334
+          "start" : 1739846149177,
+          "stop" : 1739846150641,
+          "duration" : 1464
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login bem-sucedido",
-        "uid" : "359b1113aa4afaf7",
-        "parentUid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e",
+        "uid" : "c1afe4a57ea45c30",
+        "parentUid" : "6f85345dcaa3bf65d3c43b78d5f33fc1",
         "status" : "passed",
         "time" : {
-          "start" : 1739845930485,
-          "stop" : 1739845932501,
-          "duration" : 2016
+          "start" : 1739846141075,
+          "stop" : 1739846143504,
+          "duration" : 2429
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login com senha inválida",
-        "uid" : "2fb1c0681556349b",
-        "parentUid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e",
+        "uid" : "19dcb52498f27ee9",
+        "parentUid" : "6f85345dcaa3bf65d3c43b78d5f33fc1",
         "status" : "passed",
         "time" : {
-          "start" : 1739845932841,
-          "stop" : 1739845933805,
-          "duration" : 964
+          "start" : 1739846144022,
+          "stop" : 1739846144931,
+          "duration" : 909
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a78eba05eea6ff69b78b5eb3ec0d8a5e"
+      "uid" : "6f85345dcaa3bf65d3c43b78d5f33fc1"
     } ],
-    "uid" : "c9103e1289de6646e13bf221c67426d3"
+    "uid" : "0167c12d26df371d52a5f6ff036b2b33"
   } ]
 }
