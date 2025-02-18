@@ -1,10 +1,10 @@
 [ {
-  "uid" : "a8b0c1d77e2a80a",
+  "uid" : "24dd119f42d840f0",
   "name" : "Login bem-sucedido",
   "time" : {
-    "start" : 1739764788866,
-    "stop" : 1739764791328,
-    "duration" : 2462
+    "start" : 1739839426636,
+    "stop" : 1739839428962,
+    "duration" : 2326
   },
   "status" : "passed",
   "severity" : "normal"

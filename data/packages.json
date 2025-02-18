@@ -5,13 +5,13 @@
     "name" : "cypress.e2e.login.feature",
     "children" : [ {
       "name" : "Login bem-sucedido",
-      "uid" : "a8b0c1d77e2a80a",
+      "uid" : "24dd119f42d840f0",
       "parentUid" : "66799677b7446aef17963bb2a1dd2df0",
       "status" : "passed",
       "time" : {
-        "start" : 1739764788866,
-        "stop" : 1739764791328,
-        "duration" : 2462
+        "start" : 1739839426636,
+        "stop" : 1739839428962,
+        "duration" : 2326
       },
       "flaky" : false,
       "newFailed" : false,
