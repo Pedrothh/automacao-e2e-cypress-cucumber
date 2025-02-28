@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Feb 25 14:15:40 UTC 2025","Tue Feb 25 14:15:42 UTC 2025","2149","Login","","","","","Login bem-sucedido",""
-"passed","Tue Feb 25 14:15:42 UTC 2025","Tue Feb 25 14:15:43 UTC 2025","847","Login","","","","","Login com senha inválida",""
-"passed","Tue Feb 25 14:15:47 UTC 2025","Tue Feb 25 14:15:49 UTC 2025","1190","Logout","","","","","Logout bem-sucedido",""
+"passed","Fri Feb 28 14:15:16 UTC 2025","Fri Feb 28 14:15:17 UTC 2025","1124","Logout","","","","","Logout bem-sucedido",""
+"passed","Fri Feb 28 14:15:09 UTC 2025","Fri Feb 28 14:15:11 UTC 2025","1935","Login","","","","","Login bem-sucedido",""
+"passed","Fri Feb 28 14:15:11 UTC 2025","Fri Feb 28 14:15:12 UTC 2025","1015","Login","","","","","Login com senha inválida",""
