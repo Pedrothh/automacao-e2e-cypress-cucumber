@@ -2,51 +2,51 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az1055-946",
+    "name" : "fv-az810-733",
     "children" : [ {
       "name" : "pid-2297-worker-main",
       "children" : [ {
         "name" : "Login com senha inválida",
-        "uid" : "bb75733cecacfd1d",
-        "parentUid" : "dba0ea2734848940d61eca43fb21d1f8",
+        "uid" : "d8b484a26222d210",
+        "parentUid" : "d7c8bd4eba1d618572d65425c9b03865",
         "status" : "passed",
         "time" : {
-          "start" : 1741356924874,
-          "stop" : 1741356925753,
-          "duration" : 879
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Logout bem-sucedido",
-        "uid" : "204eb3bde4eee38f",
-        "parentUid" : "dba0ea2734848940d61eca43fb21d1f8",
-        "status" : "passed",
-        "time" : {
-          "start" : 1741356930007,
-          "stop" : 1741356931298,
-          "duration" : 1291
+          "start" : 1741702601417,
+          "stop" : 1741702602289,
+          "duration" : 872
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login bem-sucedido",
-        "uid" : "13ec9d193e18f25e",
-        "parentUid" : "dba0ea2734848940d61eca43fb21d1f8",
+        "uid" : "6d4e867934fc1ba9",
+        "parentUid" : "d7c8bd4eba1d618572d65425c9b03865",
         "status" : "passed",
         "time" : {
-          "start" : 1741356921988,
-          "stop" : 1741356924429,
-          "duration" : 2441
+          "start" : 1741702598625,
+          "stop" : 1741702600913,
+          "duration" : 2288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Logout bem-sucedido",
+        "uid" : "683eb5c6122e4ada",
+        "parentUid" : "d7c8bd4eba1d618572d65425c9b03865",
+        "status" : "passed",
+        "time" : {
+          "start" : 1741702606600,
+          "stop" : 1741702607868,
+          "duration" : 1268
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "dba0ea2734848940d61eca43fb21d1f8"
+      "uid" : "d7c8bd4eba1d618572d65425c9b03865"
     } ],
-    "uid" : "aea9e90350f264cbefac35d9c0b6e1d7"
+    "uid" : "d18aa692216a726f81a091124762cf26"
   } ]
 }
