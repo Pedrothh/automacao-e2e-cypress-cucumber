@@ -2,51 +2,51 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az1065-704",
+    "name" : "fv-az1692-300",
     "children" : [ {
-      "name" : "pid-2307-worker-main",
+      "name" : "pid-2297-worker-main",
       "children" : [ {
         "name" : "Logout bem-sucedido",
-        "uid" : "9dad072dc655dde8",
-        "parentUid" : "ff7cc09b9bc89d86ebe32609818426b3",
+        "uid" : "160a9a0cc210b67e",
+        "parentUid" : "f6c755aed21ab410c4b5cced2c92f838",
         "status" : "passed",
         "time" : {
-          "start" : 1744121857035,
-          "stop" : 1744121858376,
-          "duration" : 1341
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Login com senha inválida",
-        "uid" : "651a91d98fa498c1",
-        "parentUid" : "ff7cc09b9bc89d86ebe32609818426b3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1744121851975,
-          "stop" : 1744121852767,
-          "duration" : 792
+          "start" : 1744380997972,
+          "stop" : 1744380999173,
+          "duration" : 1201
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login bem-sucedido",
-        "uid" : "20a24c13ea20b8d3",
-        "parentUid" : "ff7cc09b9bc89d86ebe32609818426b3",
+        "uid" : "cf7e3c9129192cff",
+        "parentUid" : "f6c755aed21ab410c4b5cced2c92f838",
         "status" : "passed",
         "time" : {
-          "start" : 1744121849696,
-          "stop" : 1744121851617,
-          "duration" : 1921
+          "start" : 1744380990269,
+          "stop" : 1744380992643,
+          "duration" : 2374
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login com senha inválida",
+        "uid" : "79f758dac20a745f",
+        "parentUid" : "f6c755aed21ab410c4b5cced2c92f838",
+        "status" : "passed",
+        "time" : {
+          "start" : 1744380993031,
+          "stop" : 1744380993871,
+          "duration" : 840
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "ff7cc09b9bc89d86ebe32609818426b3"
+      "uid" : "f6c755aed21ab410c4b5cced2c92f838"
     } ],
-    "uid" : "b0f658233ada69144d54a77efbef55b5"
+    "uid" : "2cf333ada8a5bcf41f454aedd3d66ec7"
   } ]
 }
