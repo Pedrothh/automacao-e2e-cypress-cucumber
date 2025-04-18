@@ -1,30 +1,30 @@
 [ {
-  "uid" : "4bbeb3e4039e35c1",
-  "name" : "Login com senha inválida",
-  "time" : {
-    "start" : 1744726646893,
-    "stop" : 1744726647674,
-    "duration" : 781
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3d9320dd0a6c3d3a",
+  "uid" : "6bc6e36fbd63e696",
   "name" : "Login bem-sucedido",
   "time" : {
-    "start" : 1744726644117,
-    "stop" : 1744726646428,
-    "duration" : 2311
+    "start" : 1744985739745,
+    "stop" : 1744985741994,
+    "duration" : 2249
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3a9f46a12823937d",
+  "uid" : "8c996e0da3310a73",
   "name" : "Logout bem-sucedido",
   "time" : {
-    "start" : 1744726652108,
-    "stop" : 1744726653290,
-    "duration" : 1182
+    "start" : 1744985747607,
+    "stop" : 1744985748827,
+    "duration" : 1220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8ab2ff8e99394dc",
+  "name" : "Login com senha inválida",
+  "time" : {
+    "start" : 1744985742428,
+    "stop" : 1744985743252,
+    "duration" : 824
   },
   "status" : "passed",
   "severity" : "normal"
