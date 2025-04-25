@@ -2,51 +2,51 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az2023-66",
+    "name" : "fv-az1704-295",
     "children" : [ {
-      "name" : "pid-2298-worker-main",
+      "name" : "pid-2295-worker-main",
       "children" : [ {
-        "name" : "Logout bem-sucedido",
-        "uid" : "f3832b1ecaf169aa",
-        "parentUid" : "e2b3643d5fc73c32de4d22e55d91b78a",
+        "name" : "Login bem-sucedido",
+        "uid" : "1be5153ba219a730",
+        "parentUid" : "2c1b0dc77385d79bb88c7a0484e999cd",
         "status" : "passed",
         "time" : {
-          "start" : 1745331454393,
-          "stop" : 1745331455630,
-          "duration" : 1237
+          "start" : 1745590567811,
+          "stop" : 1745590569830,
+          "duration" : 2019
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "Login bem-sucedido",
-        "uid" : "5415e9846e965730",
-        "parentUid" : "e2b3643d5fc73c32de4d22e55d91b78a",
+        "name" : "Logout bem-sucedido",
+        "uid" : "4eb06242c3c15324",
+        "parentUid" : "2c1b0dc77385d79bb88c7a0484e999cd",
         "status" : "passed",
         "time" : {
-          "start" : 1745331446540,
-          "stop" : 1745331448888,
-          "duration" : 2348
+          "start" : 1745590575038,
+          "stop" : 1745590576172,
+          "duration" : 1134
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login com senha inválida",
-        "uid" : "b16733d01a3081af",
-        "parentUid" : "e2b3643d5fc73c32de4d22e55d91b78a",
+        "uid" : "e1092989fc4d6caa",
+        "parentUid" : "2c1b0dc77385d79bb88c7a0484e999cd",
         "status" : "passed",
         "time" : {
-          "start" : 1745331449278,
-          "stop" : 1745331450247,
-          "duration" : 969
+          "start" : 1745590570182,
+          "stop" : 1745590570977,
+          "duration" : 795
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "e2b3643d5fc73c32de4d22e55d91b78a"
+      "uid" : "2c1b0dc77385d79bb88c7a0484e999cd"
     } ],
-    "uid" : "22401f599903b2ac6c1d15f493e86e4d"
+    "uid" : "cc57147921ce76ad7e3a0654d6c6dfe9"
   } ]
 }
