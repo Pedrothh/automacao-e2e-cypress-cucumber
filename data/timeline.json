@@ -2,51 +2,51 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az1693-467",
+    "name" : "nFnXyrHra6Vr7r",
     "children" : [ {
-      "name" : "pid-2355-worker-main",
+      "name" : "pid-2751-worker-main",
       "children" : [ {
-        "name" : "Logout bem-sucedido",
-        "uid" : "be7a81bc5c7334b5",
-        "parentUid" : "20c5ba96325ab58ab958b3a82bcd819a",
+        "name" : "Login com senha inválida",
+        "uid" : "526159c7b1421527",
+        "parentUid" : "6be802100991e808eb3261ad4d42f533",
         "status" : "passed",
         "time" : {
-          "start" : 1746541073720,
-          "stop" : 1746541074952,
-          "duration" : 1232
+          "start" : 1746800233344,
+          "stop" : 1746800234326,
+          "duration" : 982
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "Login com senha inválida",
-        "uid" : "aa512b1b6ccf9126",
-        "parentUid" : "20c5ba96325ab58ab958b3a82bcd819a",
+        "name" : "Logout bem-sucedido",
+        "uid" : "bb55d821be3c2188",
+        "parentUid" : "6be802100991e808eb3261ad4d42f533",
         "status" : "passed",
         "time" : {
-          "start" : 1746541068222,
-          "stop" : 1746541069026,
-          "duration" : 804
+          "start" : 1746800238476,
+          "stop" : 1746800239624,
+          "duration" : 1148
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login bem-sucedido",
-        "uid" : "701deed7ca6a2a6e",
-        "parentUid" : "20c5ba96325ab58ab958b3a82bcd819a",
+        "uid" : "8ed9628a1b05753d",
+        "parentUid" : "6be802100991e808eb3261ad4d42f533",
         "status" : "passed",
         "time" : {
-          "start" : 1746541065583,
-          "stop" : 1746541067825,
-          "duration" : 2242
+          "start" : 1746800231039,
+          "stop" : 1746800232943,
+          "duration" : 1904
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "20c5ba96325ab58ab958b3a82bcd819a"
+      "uid" : "6be802100991e808eb3261ad4d42f533"
     } ],
-    "uid" : "3fcdc4ba80c2c67d279efd68a99633aa"
+    "uid" : "7499bf0638ca1c077ef4c79074b3689d"
   } ]
 }

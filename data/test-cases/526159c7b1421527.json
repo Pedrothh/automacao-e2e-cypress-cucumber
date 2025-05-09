@@ -1,12 +1,12 @@
 {
-  "uid" : "701deed7ca6a2a6e",
-  "name" : "Login bem-sucedido",
-  "fullName" : "cypress/e2e/login.feature#Login Login bem-sucedido",
-  "historyId" : "e33a0fa52a0d514ef71df4975906535e:d41d8cd98f00b204e9800998ecf8427e",
+  "uid" : "526159c7b1421527",
+  "name" : "Login com senha inválida",
+  "fullName" : "cypress/e2e/login.feature#Login Login com senha inválida",
+  "historyId" : "1e8ffb6bef8837d465d888c965423a30:d41d8cd98f00b204e9800998ecf8427e",
   "time" : {
-    "start" : 1746541065583,
-    "stop" : 1746541067825,
-    "duration" : 2242
+    "start" : 1746800233344,
+    "stop" : 1746800234326,
+    "duration" : 982
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "\"before all\" hook",
     "time" : {
-      "start" : 1746541065582,
-      "stop" : 1746541065605,
-      "duration" : 23
+      "start" : 1746800231039,
+      "stop" : 1746800231060,
+      "duration" : 21
     },
     "status" : "passed",
     "steps" : [ ],
@@ -29,9 +29,9 @@
   }, {
     "name" : "\"before each\" hook",
     "time" : {
-      "start" : 1746541065608,
-      "stop" : 1746541065609,
-      "duration" : 1
+      "start" : 1746800233352,
+      "stop" : 1746800233363,
+      "duration" : 11
     },
     "status" : "passed",
     "steps" : [ ],
@@ -47,17 +47,17 @@
     "steps" : [ {
       "name" : "Dado **que estou na página de login**",
       "time" : {
-        "start" : 1746541065622,
-        "stop" : 1746541065955,
-        "duration" : 333
+        "start" : 1746800233368,
+        "stop" : 1746800233414,
+        "duration" : 46
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "visit https://pedrothh.github.io/my-public-front-for-tests",
         "time" : {
-          "start" : 1746541065625,
-          "stop" : 1746541065954,
-          "duration" : 329
+          "start" : 1746800233369,
+          "stop" : 1746800233413,
+          "duration" : 44
         },
         "status" : "passed",
         "steps" : [ ],
@@ -87,19 +87,19 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "E **insiro um nome de usuário \"user\" e senha \"12345\"**",
+      "name" : "E **insiro um nome de usuário \"user\" e senha \"123456\"**",
       "time" : {
-        "start" : 1746541065959,
-        "stop" : 1746541066506,
-        "duration" : 547
+        "start" : 1746800233418,
+        "stop" : 1746800233939,
+        "duration" : 521
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "get #username",
         "time" : {
-          "start" : 1746541065963,
-          "stop" : 1746541065969,
-          "duration" : 6
+          "start" : 1746800233421,
+          "stop" : 1746800233422,
+          "duration" : 1
         },
         "status" : "passed",
         "steps" : [ ],
@@ -121,9 +121,9 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1746541065972,
-          "stop" : 1746541066052,
-          "duration" : 80
+          "start" : 1746800233423,
+          "stop" : 1746800233494,
+          "duration" : 71
         },
         "status" : "passed",
         "steps" : [ ],
@@ -145,8 +145,8 @@
       }, {
         "name" : "get #username",
         "time" : {
-          "start" : 1746541066053,
-          "stop" : 1746541066054,
+          "start" : 1746800233495,
+          "stop" : 1746800233496,
           "duration" : 1
         },
         "status" : "passed",
@@ -169,9 +169,9 @@
       }, {
         "name" : "clear",
         "time" : {
-          "start" : 1746541066057,
-          "stop" : 1746541066134,
-          "duration" : 77
+          "start" : 1746800233497,
+          "stop" : 1746800233570,
+          "duration" : 73
         },
         "status" : "passed",
         "steps" : [ ],
@@ -190,8 +190,8 @@
       }, {
         "name" : "get #username",
         "time" : {
-          "start" : 1746541066135,
-          "stop" : 1746541066136,
+          "start" : 1746800233571,
+          "stop" : 1746800233572,
           "duration" : 1
         },
         "status" : "passed",
@@ -214,9 +214,9 @@
       }, {
         "name" : "type user",
         "time" : {
-          "start" : 1746541066138,
-          "stop" : 1746541066236,
-          "duration" : 98
+          "start" : 1746800233573,
+          "stop" : 1746800233670,
+          "duration" : 97
         },
         "status" : "passed",
         "steps" : [ ],
@@ -235,9 +235,9 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1746541066238,
-          "stop" : 1746541066239,
-          "duration" : 1
+          "start" : 1746800233671,
+          "stop" : 1746800233671,
+          "duration" : 0
         },
         "status" : "passed",
         "steps" : [ ],
@@ -259,9 +259,9 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1746541066241,
-          "stop" : 1746541066313,
-          "duration" : 72
+          "start" : 1746800233672,
+          "stop" : 1746800233743,
+          "duration" : 71
         },
         "status" : "passed",
         "steps" : [ ],
@@ -283,8 +283,8 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1746541066315,
-          "stop" : 1746541066316,
+          "start" : 1746800233744,
+          "stop" : 1746800233745,
           "duration" : 1
         },
         "status" : "passed",
@@ -307,9 +307,9 @@
       }, {
         "name" : "clear",
         "time" : {
-          "start" : 1746541066318,
-          "stop" : 1746541066392,
-          "duration" : 74
+          "start" : 1746800233746,
+          "stop" : 1746800233818,
+          "duration" : 72
         },
         "status" : "passed",
         "steps" : [ ],
@@ -328,8 +328,8 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1746541066393,
-          "stop" : 1746541066394,
+          "start" : 1746800233819,
+          "stop" : 1746800233820,
           "duration" : 1
         },
         "status" : "passed",
@@ -350,18 +350,18 @@
         "shouldDisplayMessage" : false,
         "hasContent" : true
       }, {
-        "name" : "type 12345",
+        "name" : "type 123456",
         "time" : {
-          "start" : 1746541066396,
-          "stop" : 1746541066505,
-          "duration" : 109
+          "start" : 1746800233821,
+          "stop" : 1746800233938,
+          "duration" : 117
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ {
           "name" : "Typed",
-          "value" : "12345"
+          "value" : "123456"
         }, {
           "name" : "Applied To",
           "value" : "<input type=\"password\" id=\"password\" name=\"password\" required=\"\">"
@@ -380,17 +380,17 @@
     }, {
       "name" : "Quando **clico no botão Entrar**",
       "time" : {
-        "start" : 1746541066510,
-        "stop" : 1746541066587,
-        "duration" : 77
+        "start" : 1746800233942,
+        "stop" : 1746800234017,
+        "duration" : 75
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "get button[type=\"submit\"]",
         "time" : {
-          "start" : 1746541066513,
-          "stop" : 1746541066513,
-          "duration" : 0
+          "start" : 1746800233943,
+          "stop" : 1746800233944,
+          "duration" : 1
         },
         "status" : "passed",
         "steps" : [ ],
@@ -412,9 +412,9 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1746541066514,
-          "stop" : 1746541066587,
-          "duration" : 73
+          "start" : 1746800233945,
+          "stop" : 1746800234017,
+          "duration" : 72
         },
         "status" : "passed",
         "steps" : [ ],
@@ -441,77 +441,26 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "Então **devo ser redirecionado para a página \"/home\"**",
+      "name" : "Então **não devo ser redirecionado para a página \"/home\"**",
       "time" : {
-        "start" : 1746541066591,
-        "stop" : 1746541067668,
-        "duration" : 1077
+        "start" : 1746800234020,
+        "stop" : 1746800234023,
+        "duration" : 3
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "url",
         "time" : {
-          "start" : 1746541066594,
-          "stop" : 1746541067668,
-          "duration" : 1074
+          "start" : 1746800234022,
+          "stop" : 1746800234023,
+          "duration" : 1
         },
         "status" : "passed",
         "steps" : [ {
-          "name" : "assert expected https://pedrothh.github.io/my-public-front-for-tests/ to include /home",
+          "name" : "assert expected https://pedrothh.github.io/my-public-front-for-tests/ to not include /home",
           "time" : {
-            "start" : 1746541066599,
-            "stop" : 1746541067668,
-            "duration" : 1069
-          },
-          "status" : "passed",
-          "steps" : [ ],
-          "attachments" : [ ],
-          "parameters" : [ {
-            "name" : "actual",
-            "value" : "https://pedrothh.github.io/my-public-front-for-tests/home.html"
-          } ],
-          "stepsCount" : 0,
-          "attachmentsCount" : 0,
-          "shouldDisplayMessage" : false,
-          "hasContent" : true
-        } ],
-        "attachments" : [ ],
-        "parameters" : [ {
-          "name" : "Yielded",
-          "value" : "https://pedrothh.github.io/my-public-front-for-tests/home.html"
-        } ],
-        "stepsCount" : 1,
-        "attachmentsCount" : 0,
-        "shouldDisplayMessage" : false,
-        "hasContent" : true
-      } ],
-      "attachments" : [ ],
-      "parameters" : [ ],
-      "stepsCount" : 2,
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
-      "hasContent" : true
-    }, {
-      "name" : "E **devo visualizar a mensagem \"Você fez login com sucesso.\"**",
-      "time" : {
-        "start" : 1746541067673,
-        "stop" : 1746541067678,
-        "duration" : 5
-      },
-      "status" : "passed",
-      "steps" : [ {
-        "name" : "get .home-container > p",
-        "time" : {
-          "start" : 1746541067675,
-          "stop" : 1746541067678,
-          "duration" : 3
-        },
-        "status" : "passed",
-        "steps" : [ {
-          "name" : "assert expected <p> to have text Você fez login com sucesso.",
-          "time" : {
-            "start" : 1746541067678,
-            "stop" : 1746541067678,
+            "start" : 1746800234023,
+            "stop" : 1746800234023,
             "duration" : 0
           },
           "status" : "passed",
@@ -519,13 +468,7 @@
           "attachments" : [ ],
           "parameters" : [ {
             "name" : "actual",
-            "value" : "Você fez login com sucesso."
-          }, {
-            "name" : "expected",
-            "value" : "Você fez login com sucesso."
-          }, {
-            "name" : "subject",
-            "value" : "<p>Você fe...</p>"
+            "value" : "https://pedrothh.github.io/my-public-front-for-tests/"
           } ],
           "stepsCount" : 0,
           "attachmentsCount" : 0,
@@ -534,14 +477,8 @@
         } ],
         "attachments" : [ ],
         "parameters" : [ {
-          "name" : "Selector",
-          "value" : ".home-container > p"
-        }, {
           "name" : "Yielded",
-          "value" : "<p>Você fe...</p>"
-        }, {
-          "name" : "Elements",
-          "value" : "1"
+          "value" : "https://pedrothh.github.io/my-public-front-for-tests/"
         } ],
         "stepsCount" : 1,
         "attachmentsCount" : 0,
@@ -555,40 +492,40 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "E **devo visualizar o nome do usuário logado na mensagem de Boas Vindas**",
+      "name" : "E **devo visualizar uma mensagem de erro \"Credenciais incorretas.\"**",
       "time" : {
-        "start" : 1746541067682,
-        "stop" : 1746541067824,
-        "duration" : 142
+        "start" : 1746800234026,
+        "stop" : 1746800234326,
+        "duration" : 300
       },
       "status" : "passed",
       "steps" : [ {
-        "name" : "get #username",
+        "name" : "get #message",
         "time" : {
-          "start" : 1746541067683,
-          "stop" : 1746541067823,
-          "duration" : 140
+          "start" : 1746800234027,
+          "stop" : 1746800234326,
+          "duration" : 299
         },
         "status" : "passed",
         "steps" : [ {
-          "name" : "assert expected <span#username> to have text User, but the text was ''",
+          "name" : "assert expected <p#message> to have text Credenciais incorretas., but the text was ''",
           "time" : {
-            "start" : 1746541067685,
-            "stop" : 1746541067823,
-            "duration" : 138
+            "start" : 1746800234029,
+            "stop" : 1746800234326,
+            "duration" : 297
           },
           "status" : "passed",
           "steps" : [ ],
           "attachments" : [ ],
           "parameters" : [ {
             "name" : "actual",
-            "value" : "User"
+            "value" : "Credenciais incorretas."
           }, {
             "name" : "expected",
-            "value" : "User"
+            "value" : "Credenciais incorretas."
           }, {
             "name" : "subject",
-            "value" : "<span id=\"username\">User</span>"
+            "value" : "<p id=\"message\" style=\"color: red;\">Credenc...</p>"
           } ],
           "stepsCount" : 0,
           "attachmentsCount" : 0,
@@ -598,10 +535,10 @@
         "attachments" : [ ],
         "parameters" : [ {
           "name" : "Selector",
-          "value" : "#username"
+          "value" : "#message"
         }, {
           "name" : "Yielded",
-          "value" : "<span id=\"username\">User</span>"
+          "value" : "<p id=\"message\" style=\"color: red;\">Credenc...</p>"
         }, {
           "name" : "Elements",
           "value" : "1"
@@ -620,17 +557,17 @@
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 27,
+    "stepsCount" : 24,
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
     "hasContent" : true
   },
   "afterStages" : [ {
-    "name" : "\"after all\" hook",
+    "name" : "\"after each\" hook",
     "time" : {
-      "start" : 1746541069282,
-      "stop" : 1746541069284,
-      "duration" : 2
+      "start" : 1746800234340,
+      "stop" : 1746800234341,
+      "duration" : 1
     },
     "status" : "passed",
     "steps" : [ ],
@@ -641,49 +578,28 @@
     "shouldDisplayMessage" : false,
     "hasContent" : false
   }, {
-    "name" : "Cypress video",
-    "time" : {
-      "start" : 1746541070711,
-      "stop" : 1746541070712,
-      "duration" : 1
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "1af2e0a86622310a",
-      "name" : "Cypress video",
-      "source" : "1af2e0a86622310a.mp4",
-      "type" : "video/mp4",
-      "size" : 634223
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  }, {
     "name" : "\"after each\" hook",
     "time" : {
-      "start" : 1746541067866,
-      "stop" : 1746541068187,
-      "duration" : 321
+      "start" : 1746800234360,
+      "stop" : 1746800234559,
+      "duration" : 199
     },
     "status" : "passed",
     "steps" : [ {
-      "name" : "Login bem-sucedido -- after each hook.png",
+      "name" : "Login com senha inválida -- after each hook.png",
       "time" : {
-        "start" : 1746541067868,
-        "stop" : 1746541068186,
-        "duration" : 318
+        "start" : 1746800234361,
+        "stop" : 1746800234558,
+        "duration" : 197
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "b7f1ea997214ab0a",
-        "name" : "Login bem-sucedido -- after each hook.png",
-        "source" : "b7f1ea997214ab0a.png",
+        "uid" : "83e8cb0da7152460",
+        "name" : "Login com senha inválida -- after each hook.png",
+        "source" : "83e8cb0da7152460.png",
         "type" : "image/png",
-        "size" : 234388
+        "size" : 287272
       } ],
       "parameters" : [ {
         "name" : "capture",
@@ -705,10 +621,10 @@
         "value" : "0"
       }, {
         "name" : "size",
-        "value" : "228.89 KB"
+        "value" : "280.54 KB"
       }, {
         "name" : "takenAt",
-        "value" : "2025-05-06T14:17:47.890Z"
+        "value" : "2025-05-09T14:17:14.370Z"
       }, {
         "name" : "dimensions",
         "value" : "1000px x 660px"
@@ -723,10 +639,10 @@
         "value" : "login.feature"
       }, {
         "name" : "path",
-        "value" : "/home/runner/work/automacao-e2e-cypress-cucumber/automacao-e2e-cypress-cucumber/cypress/screenshots/login.feature/Login bem-suce..."
+        "value" : "/home/runner/work/automacao-e2e-cypress-cucumber/automacao-e2e-cypress-cucumber/cypress/screenshots/login.feature/Login com senh..."
       }, {
         "name" : "duration",
-        "value" : "314ms"
+        "value" : "194ms"
       } ],
       "stepsCount" : 0,
       "attachmentsCount" : 1,
@@ -740,10 +656,10 @@
     "shouldDisplayMessage" : false,
     "hasContent" : true
   }, {
-    "name" : "\"after each\" hook",
+    "name" : "\"after all\" hook",
     "time" : {
-      "start" : 1746541067833,
-      "stop" : 1746541067834,
+      "start" : 1746800234564,
+      "stop" : 1746800234565,
       "duration" : 1
     },
     "status" : "passed",
@@ -754,6 +670,27 @@
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
     "hasContent" : false
+  }, {
+    "name" : "Cypress video",
+    "time" : {
+      "start" : 1746800235847,
+      "stop" : 1746800235847,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "462b9dcc7effcb8a",
+      "name" : "Cypress video",
+      "source" : "462b9dcc7effcb8a.mp4",
+      "type" : "video/mp4",
+      "size" : 398797
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
   } ],
   "labels" : [ {
     "name" : "language",
@@ -766,10 +703,10 @@
     "value" : "Login"
   }, {
     "name" : "host",
-    "value" : "fv-az1693-467"
+    "value" : "nFnXyrHra6Vr7r"
   }, {
     "name" : "thread",
-    "value" : "pid-2355-worker-main"
+    "value" : "pid-2751-worker-main"
   }, {
     "name" : "package",
     "value" : "cypress.e2e.login.feature"
@@ -799,17 +736,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "9b5f732ad3f8e7",
+        "uid" : "ef7b6712d48ccfba",
         "status" : "passed",
         "time" : {
-          "start" : 1746541065583,
-          "stop" : 1746541067825,
-          "duration" : 2242
+          "start" : 1746800233344,
+          "stop" : 1746800234326,
+          "duration" : 982
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "701deed7ca6a2a6e.json",
+  "source" : "526159c7b1421527.json",
   "parameterValues" : [ ]
 }
