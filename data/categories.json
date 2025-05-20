@@ -2,50 +2,42 @@
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
   "children" : [ {
-    "name" : "Test passed",
+    "name" : "Test failed",
     "children" : [ {
+      "name" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
       "children" : [ {
         "name" : "Login bem-sucedido",
-        "uid" : "c3de2f1ffcf4aff6",
-        "parentUid" : "9c80a0c1559ab612131af073d4d469b3",
-        "status" : "passed",
+        "uid" : "28503d748388ba42",
+        "parentUid" : "ed4d6c8cefb60aeae81cdd3ac69536a9",
+        "status" : "failed",
         "time" : {
-          "start" : 1747405025459,
-          "stop" : 1747405027703,
-          "duration" : 2244
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Login com senha inválida",
-        "uid" : "9ddca4e5684bab3",
-        "parentUid" : "9c80a0c1559ab612131af073d4d469b3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1747405028131,
-          "stop" : 1747405028957,
-          "duration" : 826
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Logout bem-sucedido",
-        "uid" : "8b46d2f8bc1dfbaf",
-        "parentUid" : "9c80a0c1559ab612131af073d4d469b3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1747405032986,
-          "stop" : 1747405034285,
-          "duration" : 1299
+          "start" : 1747750680592,
+          "stop" : 1747750685568,
+          "duration" : 4976
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "9c80a0c1559ab612131af073d4d469b3"
+      "uid" : "ed4d6c8cefb60aeae81cdd3ac69536a9"
+    }, {
+      "name" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
+      "children" : [ {
+        "name" : "Logout bem-sucedido",
+        "uid" : "adde3bcd1f06d31f",
+        "parentUid" : "cff89d617bd7148b8709fa7f1d2a32ae",
+        "status" : "failed",
+        "time" : {
+          "start" : 1747750694729,
+          "stop" : 1747750699611,
+          "duration" : 4882
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cff89d617bd7148b8709fa7f1d2a32ae"
     } ],
-    "uid" : "bf711d51452b6be752b9682737c0edfd"
+    "uid" : "6f954d88a7c526d172b7c6798d380845"
   } ]
 }

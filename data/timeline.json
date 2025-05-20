@@ -2,51 +2,38 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "pkrvmberfyhpb9w",
+    "name" : "pkrvmf6wy0o8zjz",
     "children" : [ {
-      "name" : "pid-2400-worker-main",
+      "name" : "pid-2513-worker-main",
       "children" : [ {
-        "name" : "Login com senha inválida",
-        "uid" : "9ddca4e5684bab3",
-        "parentUid" : "6439b69f6d5ecc0fb324890693e630c2",
-        "status" : "passed",
+        "name" : "Logout bem-sucedido",
+        "uid" : "adde3bcd1f06d31f",
+        "parentUid" : "87a995669ac9441e29853cea6c582d64",
+        "status" : "failed",
         "time" : {
-          "start" : 1747405028131,
-          "stop" : 1747405028957,
-          "duration" : 826
+          "start" : 1747750694729,
+          "stop" : 1747750699611,
+          "duration" : 4882
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login bem-sucedido",
-        "uid" : "c3de2f1ffcf4aff6",
-        "parentUid" : "6439b69f6d5ecc0fb324890693e630c2",
-        "status" : "passed",
+        "uid" : "28503d748388ba42",
+        "parentUid" : "87a995669ac9441e29853cea6c582d64",
+        "status" : "failed",
         "time" : {
-          "start" : 1747405025459,
-          "stop" : 1747405027703,
-          "duration" : 2244
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Logout bem-sucedido",
-        "uid" : "8b46d2f8bc1dfbaf",
-        "parentUid" : "6439b69f6d5ecc0fb324890693e630c2",
-        "status" : "passed",
-        "time" : {
-          "start" : 1747405032986,
-          "stop" : 1747405034285,
-          "duration" : 1299
+          "start" : 1747750680592,
+          "stop" : 1747750685568,
+          "duration" : 4976
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "6439b69f6d5ecc0fb324890693e630c2"
+      "uid" : "87a995669ac9441e29853cea6c582d64"
     } ],
-    "uid" : "a58dffd4f4f2e8ab98e1a803a1e72151"
+    "uid" : "3ab62c0eee481701621eed6a0ada0881"
   } ]
 }

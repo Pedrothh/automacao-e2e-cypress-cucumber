@@ -1,82 +1,59 @@
 {
   "fa644f4469d5ccd5b55d30226441ff68:d41d8cd98f00b204e9800998ecf8427e" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 2
     },
     "items" : [ {
-      "uid" : "8b46d2f8bc1dfbaf",
-      "status" : "passed",
+      "uid" : "adde3bcd1f06d31f",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
       "time" : {
-        "start" : 1747405032986,
-        "stop" : 1747405034285,
-        "duration" : 1299
+        "start" : 1747750694729,
+        "stop" : 1747750699611,
+        "duration" : 4882
       }
     }, {
-      "uid" : "7c429b5073449bc9",
-      "status" : "passed",
+      "uid" : "2541fb55ee5fb2a8",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
       "time" : {
-        "start" : 1747405032986,
-        "stop" : 1747405034285,
-        "duration" : 1299
-      }
-    } ]
-  },
-  "1e8ffb6bef8837d465d888c965423a30:d41d8cd98f00b204e9800998ecf8427e" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    },
-    "items" : [ {
-      "uid" : "9ddca4e5684bab3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1747405028131,
-        "stop" : 1747405028957,
-        "duration" : 826
-      }
-    }, {
-      "uid" : "773af68d2fb1da73",
-      "status" : "passed",
-      "time" : {
-        "start" : 1747405028131,
-        "stop" : 1747405028957,
-        "duration" : 826
+        "start" : 1747750694729,
+        "stop" : 1747750699611,
+        "duration" : 4882
       }
     } ]
   },
   "e33a0fa52a0d514ef71df4975906535e:d41d8cd98f00b204e9800998ecf8427e" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 2
     },
     "items" : [ {
-      "uid" : "c3de2f1ffcf4aff6",
-      "status" : "passed",
+      "uid" : "28503d748388ba42",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
       "time" : {
-        "start" : 1747405025459,
-        "stop" : 1747405027703,
-        "duration" : 2244
+        "start" : 1747750680592,
+        "stop" : 1747750685568,
+        "duration" : 4976
       }
     }, {
-      "uid" : "7e6cc2d216160edb",
-      "status" : "passed",
+      "uid" : "198a8bf4f8e20582",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
       "time" : {
-        "start" : 1747405025459,
-        "stop" : 1747405027703,
-        "duration" : 2244
+        "start" : 1747750680592,
+        "stop" : 1747750685568,
+        "duration" : 4976
       }
     } ]
   }

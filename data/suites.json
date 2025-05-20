@@ -5,26 +5,13 @@
     "name" : "Login",
     "children" : [ {
       "name" : "Login bem-sucedido",
-      "uid" : "c3de2f1ffcf4aff6",
+      "uid" : "28503d748388ba42",
       "parentUid" : "1a85855463aca3ea10b8fe0fcb3372b8",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1747405025459,
-        "stop" : 1747405027703,
-        "duration" : 2244
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Login com senha inválida",
-      "uid" : "9ddca4e5684bab3",
-      "parentUid" : "1a85855463aca3ea10b8fe0fcb3372b8",
-      "status" : "passed",
-      "time" : {
-        "start" : 1747405028131,
-        "stop" : 1747405028957,
-        "duration" : 826
+        "start" : 1747750680592,
+        "stop" : 1747750685568,
+        "duration" : 4976
       },
       "flaky" : false,
       "newFailed" : false,
@@ -35,13 +22,13 @@
     "name" : "Logout",
     "children" : [ {
       "name" : "Logout bem-sucedido",
-      "uid" : "8b46d2f8bc1dfbaf",
+      "uid" : "adde3bcd1f06d31f",
       "parentUid" : "7889adc551fb943d344581d130caec92",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1747405032986,
-        "stop" : 1747405034285,
-        "duration" : 1299
+        "start" : 1747750694729,
+        "stop" : 1747750699611,
+        "duration" : 4882
       },
       "flaky" : false,
       "newFailed" : false,
