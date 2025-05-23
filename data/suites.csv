@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Tue May 20 14:18:14 UTC 2025","Tue May 20 14:18:19 UTC 2025","4882","Logout","","","","","Logout bem-sucedido",""
-"failed","Tue May 20 14:18:00 UTC 2025","Tue May 20 14:18:05 UTC 2025","4976","Login","","","","","Login bem-sucedido",""
+"failed","Fri May 23 14:17:09 UTC 2025","Fri May 23 14:17:14 UTC 2025","4858","Logout","","","","","Logout bem-sucedido",""
+"failed","Fri May 23 14:16:54 UTC 2025","Fri May 23 14:17:00 UTC 2025","5156","Login","","","","","Login bem-sucedido",""
