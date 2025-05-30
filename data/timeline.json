@@ -4,35 +4,35 @@
   "children" : [ {
     "name" : "pkrvmf6wy0o8zjz",
     "children" : [ {
-      "name" : "pid-2515-worker-main",
+      "name" : "pid-2546-worker-main",
       "children" : [ {
         "name" : "Logout bem-sucedido",
-        "uid" : "6e03432409990b71",
-        "parentUid" : "e2ead5d726d6fcc6baa229b864bcd198",
+        "uid" : "a18633a3dcb76bef",
+        "parentUid" : "82da28cdd5f3fd183cb09fd8e9372d5b",
         "status" : "failed",
         "time" : {
-          "start" : 1748355459677,
-          "stop" : 1748355464516,
-          "duration" : 4839
+          "start" : 1748614695990,
+          "stop" : 1748614700826,
+          "duration" : 4836
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Login bem-sucedido",
-        "uid" : "943b109c6e547b3a",
-        "parentUid" : "e2ead5d726d6fcc6baa229b864bcd198",
+        "uid" : "d2c6bc7977eac27d",
+        "parentUid" : "82da28cdd5f3fd183cb09fd8e9372d5b",
         "status" : "failed",
         "time" : {
-          "start" : 1748355445630,
-          "stop" : 1748355450674,
-          "duration" : 5044
+          "start" : 1748614681817,
+          "stop" : 1748614686985,
+          "duration" : 5168
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "e2ead5d726d6fcc6baa229b864bcd198"
+      "uid" : "82da28cdd5f3fd183cb09fd8e9372d5b"
     } ],
     "uid" : "3ab62c0eee481701621eed6a0ada0881"
   } ]

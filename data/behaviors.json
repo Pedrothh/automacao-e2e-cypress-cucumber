@@ -3,26 +3,26 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "Login bem-sucedido",
-    "uid" : "943b109c6e547b3a",
+    "uid" : "d2c6bc7977eac27d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1748355445630,
-      "stop" : 1748355450674,
-      "duration" : 5044
+      "start" : 1748614681817,
+      "stop" : 1748614686985,
+      "duration" : 5168
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Logout bem-sucedido",
-    "uid" : "6e03432409990b71",
+    "uid" : "a18633a3dcb76bef",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1748355459677,
-      "stop" : 1748355464516,
-      "duration" : 4839
+      "start" : 1748614695990,
+      "stop" : 1748614700826,
+      "duration" : 4836
     },
     "flaky" : false,
     "newFailed" : false,
