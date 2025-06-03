@@ -9,22 +9,22 @@
       "total" : 2
     },
     "items" : [ {
-      "uid" : "a18633a3dcb76bef",
+      "uid" : "c9622b86e071773e",
       "status" : "failed",
       "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
       "time" : {
-        "start" : 1748614695990,
-        "stop" : 1748614700826,
-        "duration" : 4836
+        "start" : 1748960338333,
+        "stop" : 1748960343182,
+        "duration" : 4849
       }
     }, {
-      "uid" : "f7f13aea00875fd7",
+      "uid" : "7bc0144f9ae6c8a5",
       "status" : "failed",
       "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
       "time" : {
-        "start" : 1748614695990,
-        "stop" : 1748614700826,
-        "duration" : 4836
+        "start" : 1748960338333,
+        "stop" : 1748960343182,
+        "duration" : 4849
       }
     } ]
   },
@@ -38,22 +38,22 @@
       "total" : 2
     },
     "items" : [ {
-      "uid" : "d2c6bc7977eac27d",
+      "uid" : "8764990db0146cc9",
       "status" : "failed",
       "statusDetails" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
       "time" : {
-        "start" : 1748614681817,
-        "stop" : 1748614686985,
-        "duration" : 5168
+        "start" : 1748960324051,
+        "stop" : 1748960329104,
+        "duration" : 5053
       }
     }, {
-      "uid" : "9e0124f4bae4df66",
+      "uid" : "f56cfbbafa191131",
       "status" : "failed",
       "statusDetails" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
       "time" : {
-        "start" : 1748614681817,
-        "stop" : 1748614686985,
-        "duration" : 5168
+        "start" : 1748960324051,
+        "stop" : 1748960329104,
+        "duration" : 5053
       }
     } ]
   }

@@ -1,24 +1,24 @@
 {
-  "uid" : "a18633a3dcb76bef",
-  "name" : "Logout bem-sucedido",
-  "fullName" : "cypress/e2e/logout.feature#Logout Logout bem-sucedido",
-  "historyId" : "fa644f4469d5ccd5b55d30226441ff68:d41d8cd98f00b204e9800998ecf8427e",
+  "uid" : "8764990db0146cc9",
+  "name" : "Login bem-sucedido",
+  "fullName" : "cypress/e2e/login.feature#Login Login bem-sucedido",
+  "historyId" : "e33a0fa52a0d514ef71df4975906535e:d41d8cd98f00b204e9800998ecf8427e",
   "time" : {
-    "start" : 1748614695990,
-    "stop" : 1748614700826,
-    "duration" : 4836
+    "start" : 1748960324051,
+    "stop" : 1748960329104,
+    "duration" : 5053
   },
   "status" : "failed",
-  "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
-  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.\n    at BasePage.click (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13967:14)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:14107:19)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
+  "statusMessage" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'\n    at BasePage.validarContainsUrl (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14008:20)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14081:18)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
-    "name" : "\"before each\" hook",
+    "name" : "\"before all\" hook",
     "time" : {
-      "start" : 1748614696013,
-      "stop" : 1748614696014,
-      "duration" : 1
+      "start" : 1748960324050,
+      "stop" : 1748960324074,
+      "duration" : 24
     },
     "status" : "passed",
     "steps" : [ ],
@@ -29,11 +29,11 @@
     "shouldDisplayMessage" : false,
     "hasContent" : false
   }, {
-    "name" : "\"before all\" hook",
+    "name" : "\"before each\" hook",
     "time" : {
-      "start" : 1748614695989,
-      "stop" : 1748614696011,
-      "duration" : 22
+      "start" : 1748960324077,
+      "stop" : 1748960329127,
+      "duration" : 5050
     },
     "status" : "passed",
     "steps" : [ ],
@@ -46,22 +46,22 @@
   } ],
   "testStage" : {
     "status" : "failed",
-    "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
-    "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.\n    at BasePage.click (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13967:14)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:14107:19)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
+    "statusMessage" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
+    "statusTrace" : "AssertionError: Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'\n    at BasePage.validarContainsUrl (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14008:20)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14081:18)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
     "steps" : [ {
       "name" : "Dado **que estou na página de login**",
       "time" : {
-        "start" : 1748614696023,
-        "stop" : 1748614696098,
-        "duration" : 75
+        "start" : 1748960324088,
+        "stop" : 1748960324249,
+        "duration" : 161
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "visit https://pedrothh.github.io/my-public-front-for-tests",
         "time" : {
-          "start" : 1748614696026,
-          "stop" : 1748614696097,
-          "duration" : 71
+          "start" : 1748960324091,
+          "stop" : 1748960324249,
+          "duration" : 158
         },
         "status" : "passed",
         "steps" : [ ],
@@ -93,16 +93,16 @@
     }, {
       "name" : "E **insiro um nome de usuário \"user\" e senha \"12345\"**",
       "time" : {
-        "start" : 1748614696103,
-        "stop" : 1748614696651,
-        "duration" : 548
+        "start" : 1748960324254,
+        "stop" : 1748960324794,
+        "duration" : 540
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "get #username",
         "time" : {
-          "start" : 1748614696107,
-          "stop" : 1748614696112,
+          "start" : 1748960324258,
+          "stop" : 1748960324263,
           "duration" : 5
         },
         "status" : "passed",
@@ -125,9 +125,9 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1748614696114,
-          "stop" : 1748614696194,
-          "duration" : 80
+          "start" : 1748960324265,
+          "stop" : 1748960324342,
+          "duration" : 77
         },
         "status" : "passed",
         "steps" : [ ],
@@ -149,9 +149,9 @@
       }, {
         "name" : "get #username",
         "time" : {
-          "start" : 1748614696196,
-          "stop" : 1748614696197,
-          "duration" : 1
+          "start" : 1748960324343,
+          "stop" : 1748960324345,
+          "duration" : 2
         },
         "status" : "passed",
         "steps" : [ ],
@@ -173,9 +173,9 @@
       }, {
         "name" : "clear",
         "time" : {
-          "start" : 1748614696199,
-          "stop" : 1748614696275,
-          "duration" : 76
+          "start" : 1748960324346,
+          "stop" : 1748960324423,
+          "duration" : 77
         },
         "status" : "passed",
         "steps" : [ ],
@@ -194,8 +194,8 @@
       }, {
         "name" : "get #username",
         "time" : {
-          "start" : 1748614696277,
-          "stop" : 1748614696278,
+          "start" : 1748960324424,
+          "stop" : 1748960324425,
           "duration" : 1
         },
         "status" : "passed",
@@ -218,9 +218,9 @@
       }, {
         "name" : "type user",
         "time" : {
-          "start" : 1748614696279,
-          "stop" : 1748614696380,
-          "duration" : 101
+          "start" : 1748960324427,
+          "stop" : 1748960324529,
+          "duration" : 102
         },
         "status" : "passed",
         "steps" : [ ],
@@ -239,8 +239,8 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1748614696382,
-          "stop" : 1748614696383,
+          "start" : 1748960324531,
+          "stop" : 1748960324532,
           "duration" : 1
         },
         "status" : "passed",
@@ -263,8 +263,8 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1748614696384,
-          "stop" : 1748614696456,
+          "start" : 1748960324534,
+          "stop" : 1748960324606,
           "duration" : 72
         },
         "status" : "passed",
@@ -287,8 +287,8 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1748614696457,
-          "stop" : 1748614696458,
+          "start" : 1748960324607,
+          "stop" : 1748960324608,
           "duration" : 1
         },
         "status" : "passed",
@@ -311,8 +311,8 @@
       }, {
         "name" : "clear",
         "time" : {
-          "start" : 1748614696460,
-          "stop" : 1748614696533,
+          "start" : 1748960324610,
+          "stop" : 1748960324683,
           "duration" : 73
         },
         "status" : "passed",
@@ -332,8 +332,8 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1748614696534,
-          "stop" : 1748614696535,
+          "start" : 1748960324684,
+          "stop" : 1748960324685,
           "duration" : 1
         },
         "status" : "passed",
@@ -356,9 +356,9 @@
       }, {
         "name" : "type 12345",
         "time" : {
-          "start" : 1748614696537,
-          "stop" : 1748614696651,
-          "duration" : 114
+          "start" : 1748960324686,
+          "stop" : 1748960324794,
+          "duration" : 108
         },
         "status" : "passed",
         "steps" : [ ],
@@ -382,18 +382,18 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "E **clico no botão Entrar**",
+      "name" : "Quando **clico no botão Entrar**",
       "time" : {
-        "start" : 1748614696656,
-        "stop" : 1748614696732,
-        "duration" : 76
+        "start" : 1748960324798,
+        "stop" : 1748960324875,
+        "duration" : 77
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "get button[type=\"submit\"]",
         "time" : {
-          "start" : 1748614696657,
-          "stop" : 1748614696658,
+          "start" : 1748960324800,
+          "stop" : 1748960324801,
           "duration" : 1
         },
         "status" : "passed",
@@ -416,8 +416,8 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1748614696659,
-          "stop" : 1748614696731,
+          "start" : 1748960324802,
+          "stop" : 1748960324874,
           "duration" : 72
         },
         "status" : "passed",
@@ -445,101 +445,94 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "Quando **clico no botão Sair**",
+      "name" : "Então **devo ser redirecionado para a página \"/home\"**",
       "time" : {
-        "start" : 1748614696735,
-        "stop" : 1748614700826,
-        "duration" : 4091
+        "start" : 1748960324879,
+        "stop" : 1748960329104,
+        "duration" : 4225
       },
       "status" : "failed",
-      "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
-      "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.\n    at BasePage.click (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13967:14)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:14107:19)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
+      "statusMessage" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
+      "statusTrace" : "AssertionError: Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'\n    at BasePage.validarContainsUrl (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14008:20)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14081:18)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
       "steps" : [ {
-        "name" : "get #logoutButton",
+        "name" : "url",
         "time" : {
-          "start" : 1748614696736,
-          "stop" : 1748614700826,
-          "duration" : 4090
+          "start" : 1748960324881,
+          "stop" : 1748960328886,
+          "duration" : 4005
         },
         "status" : "failed",
-        "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
-        "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.\n    at BasePage.click (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13967:14)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:14107:19)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
-        "steps" : [ ],
-        "attachments" : [ {
-          "uid" : "ec5b1af934db449d",
-          "name" : "Logout -- Logout bem-sucedido (failed).png",
-          "source" : "ec5b1af934db449d.png",
-          "type" : "image/png",
-          "size" : 237708
+        "statusMessage" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
+        "statusTrace" : "AssertionError: Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'\n    at BasePage.validarContainsUrl (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14008:20)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14081:18)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
+        "steps" : [ {
+          "name" : "assert expected https://pedrothh.github.io/my-public-front-for-tests/ to include /home",
+          "time" : {
+            "start" : 1748960324886,
+            "stop" : 1748960328886,
+            "duration" : 4000
+          },
+          "status" : "failed",
+          "statusMessage" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
+          "statusTrace" : "AssertionError: Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'\n    at BasePage.validarContainsUrl (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14008:20)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:14081:18)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/login.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ {
+            "name" : "actual",
+            "value" : "https://pedrothh.github.io/my-public-front-for-tests/"
+          } ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : true,
+          "hasContent" : true
         } ],
-        "parameters" : [ {
-          "name" : "Selector",
-          "value" : "#logoutButton"
-        }, {
-          "name" : "Elements",
-          "value" : "0"
-        } ],
-        "stepsCount" : 0,
-        "attachmentsCount" : 1,
-        "shouldDisplayMessage" : true,
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
         "hasContent" : true
       } ],
-      "attachments" : [ ],
+      "attachments" : [ {
+        "uid" : "7a5702f00b89bec1",
+        "name" : "Login -- Login bem-sucedido (failed).png",
+        "source" : "7a5702f00b89bec1.png",
+        "type" : "image/png",
+        "size" : 240462
+      } ],
       "parameters" : [ ],
-      "stepsCount" : 1,
+      "stepsCount" : 2,
       "attachmentsCount" : 1,
       "shouldDisplayMessage" : false,
       "hasContent" : true
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 20,
+    "stepsCount" : 21,
     "attachmentsCount" : 1,
     "shouldDisplayMessage" : false,
     "hasContent" : true
   },
   "afterStages" : [ {
-    "name" : "Cypress video",
-    "time" : {
-      "start" : 1748614702519,
-      "stop" : 1748614702520,
-      "duration" : 1
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "61017c3b1a9f1e",
-      "name" : "Cypress video",
-      "source" : "61017c3b1a9f1e.mp4",
-      "type" : "video/mp4",
-      "size" : 599985
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  }, {
     "name" : "\"after each\" hook",
     "time" : {
-      "start" : 1748614700845,
-      "stop" : 1748614701058,
-      "duration" : 213
+      "start" : 1748960329135,
+      "stop" : 1748960329449,
+      "duration" : 314
     },
     "status" : "passed",
     "steps" : [ {
-      "name" : "Logout bem-sucedido -- after each hook.png",
+      "name" : "Login bem-sucedido -- after each hook.png",
       "time" : {
-        "start" : 1748614700847,
-        "stop" : 1748614701058,
-        "duration" : 211
+        "start" : 1748960329142,
+        "stop" : 1748960329448,
+        "duration" : 306
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "dd1e8eae7fdd7e80",
-        "name" : "Logout bem-sucedido -- after each hook.png",
-        "source" : "dd1e8eae7fdd7e80.png",
+        "uid" : "26558873b05c0ed1",
+        "name" : "Login bem-sucedido -- after each hook.png",
+        "source" : "26558873b05c0ed1.png",
         "type" : "image/png",
         "size" : 285951
       } ],
@@ -566,7 +559,7 @@
         "value" : "279.25 KB"
       }, {
         "name" : "takenAt",
-        "value" : "2025-05-30T14:18:20.861Z"
+        "value" : "2025-06-03T14:18:49.184Z"
       }, {
         "name" : "dimensions",
         "value" : "1000px x 660px"
@@ -578,13 +571,13 @@
         "value" : "1"
       }, {
         "name" : "specName",
-        "value" : "logout.feature"
+        "value" : "login.feature"
       }, {
         "name" : "path",
-        "value" : "/home/runner/work/automacao-e2e-cypress-cucumber/automacao-e2e-cypress-cucumber/cypress/screenshots/logout.feature/Logout bem-su..."
+        "value" : "/home/runner/work/automacao-e2e-cypress-cucumber/automacao-e2e-cypress-cucumber/cypress/screenshots/login.feature/Login bem-suce..."
       }, {
         "name" : "duration",
-        "value" : "208ms"
+        "value" : "303ms"
       } ],
       "stepsCount" : 0,
       "attachmentsCount" : 1,
@@ -600,8 +593,8 @@
   }, {
     "name" : "\"after each\" hook",
     "time" : {
-      "start" : 1748614700830,
-      "stop" : 1748614700831,
+      "start" : 1748960329108,
+      "stop" : 1748960329109,
       "duration" : 1
     },
     "status" : "passed",
@@ -613,11 +606,32 @@
     "shouldDisplayMessage" : false,
     "hasContent" : false
   }, {
+    "name" : "Cypress video",
+    "time" : {
+      "start" : 1748960335668,
+      "stop" : 1748960335669,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2cd4cfb83beb3bac",
+      "name" : "Cypress video",
+      "source" : "2cd4cfb83beb3bac.mp4",
+      "type" : "video/mp4",
+      "size" : 914636
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
     "name" : "\"after all\" hook",
     "time" : {
-      "start" : 1748614701071,
-      "stop" : 1748614701073,
-      "duration" : 2
+      "start" : 1748960334594,
+      "stop" : 1748960334595,
+      "duration" : 1
     },
     "status" : "passed",
     "steps" : [ ],
@@ -636,16 +650,16 @@
     "value" : "cypress"
   }, {
     "name" : "parentSuite",
-    "value" : "Logout"
+    "value" : "Login"
   }, {
     "name" : "host",
     "value" : "pkrvmf6wy0o8zjz"
   }, {
     "name" : "thread",
-    "value" : "pid-2546-worker-main"
+    "value" : "pid-2509-worker-main"
   }, {
     "name" : "package",
-    "value" : "cypress.e2e.logout.feature"
+    "value" : "cypress.e2e.login.feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure2"
@@ -672,18 +686,18 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "f7f13aea00875fd7",
+        "uid" : "f56cfbbafa191131",
         "status" : "failed",
-        "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
+        "statusDetails" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
         "time" : {
-          "start" : 1748614695990,
-          "stop" : 1748614700826,
-          "duration" : 4836
+          "start" : 1748960324051,
+          "stop" : 1748960329104,
+          "duration" : 5053
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "a18633a3dcb76bef.json",
+  "source" : "8764990db0146cc9.json",
   "parameterValues" : [ ]
 }

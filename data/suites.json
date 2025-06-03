@@ -5,13 +5,13 @@
     "name" : "Login",
     "children" : [ {
       "name" : "Login bem-sucedido",
-      "uid" : "d2c6bc7977eac27d",
+      "uid" : "8764990db0146cc9",
       "parentUid" : "1a85855463aca3ea10b8fe0fcb3372b8",
       "status" : "failed",
       "time" : {
-        "start" : 1748614681817,
-        "stop" : 1748614686985,
-        "duration" : 5168
+        "start" : 1748960324051,
+        "stop" : 1748960329104,
+        "duration" : 5053
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,13 +22,13 @@
     "name" : "Logout",
     "children" : [ {
       "name" : "Logout bem-sucedido",
-      "uid" : "a18633a3dcb76bef",
+      "uid" : "c9622b86e071773e",
       "parentUid" : "7889adc551fb943d344581d130caec92",
       "status" : "failed",
       "time" : {
-        "start" : 1748614695990,
-        "stop" : 1748614700826,
-        "duration" : 4836
+        "start" : 1748960338333,
+        "stop" : 1748960343182,
+        "duration" : 4849
       },
       "flaky" : false,
       "newFailed" : false,
