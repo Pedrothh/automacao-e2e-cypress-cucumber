@@ -1,12 +1,12 @@
 {
-  "uid" : "c9622b86e071773e",
+  "uid" : "a14fd2571ac8c594",
   "name" : "Logout bem-sucedido",
   "fullName" : "cypress/e2e/logout.feature#Logout Logout bem-sucedido",
   "historyId" : "fa644f4469d5ccd5b55d30226441ff68:d41d8cd98f00b204e9800998ecf8427e",
   "time" : {
-    "start" : 1748960338333,
-    "stop" : 1748960343182,
-    "duration" : 4849
+    "start" : 1749219459776,
+    "stop" : 1749219464620,
+    "duration" : 4844
   },
   "status" : "failed",
   "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
@@ -16,9 +16,9 @@
   "beforeStages" : [ {
     "name" : "\"before all\" hook",
     "time" : {
-      "start" : 1748960338333,
-      "stop" : 1748960338357,
-      "duration" : 24
+      "start" : 1749219459775,
+      "stop" : 1749219459796,
+      "duration" : 21
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,8 +31,8 @@
   }, {
     "name" : "\"before each\" hook",
     "time" : {
-      "start" : 1748960338359,
-      "stop" : 1748960338360,
+      "start" : 1749219459801,
+      "stop" : 1749219459802,
       "duration" : 1
     },
     "status" : "passed",
@@ -51,17 +51,17 @@
     "steps" : [ {
       "name" : "Dado **que estou na página de login**",
       "time" : {
-        "start" : 1748960338371,
-        "stop" : 1748960338450,
-        "duration" : 79
+        "start" : 1749219459812,
+        "stop" : 1749219459899,
+        "duration" : 87
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "visit https://pedrothh.github.io/my-public-front-for-tests",
         "time" : {
-          "start" : 1748960338374,
-          "stop" : 1748960338450,
-          "duration" : 76
+          "start" : 1749219459815,
+          "stop" : 1749219459898,
+          "duration" : 83
         },
         "status" : "passed",
         "steps" : [ ],
@@ -93,16 +93,16 @@
     }, {
       "name" : "E **insiro um nome de usuário \"user\" e senha \"12345\"**",
       "time" : {
-        "start" : 1748960338456,
-        "stop" : 1748960339004,
+        "start" : 1749219459905,
+        "stop" : 1749219460453,
         "duration" : 548
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "get #username",
         "time" : {
-          "start" : 1748960338460,
-          "stop" : 1748960338466,
+          "start" : 1749219459909,
+          "stop" : 1749219459915,
           "duration" : 6
         },
         "status" : "passed",
@@ -125,9 +125,9 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1748960338468,
-          "stop" : 1748960338549,
-          "duration" : 81
+          "start" : 1749219459917,
+          "stop" : 1749219459995,
+          "duration" : 78
         },
         "status" : "passed",
         "steps" : [ ],
@@ -149,9 +149,9 @@
       }, {
         "name" : "get #username",
         "time" : {
-          "start" : 1748960338550,
-          "stop" : 1748960338552,
-          "duration" : 2
+          "start" : 1749219459997,
+          "stop" : 1749219459998,
+          "duration" : 1
         },
         "status" : "passed",
         "steps" : [ ],
@@ -173,8 +173,8 @@
       }, {
         "name" : "clear",
         "time" : {
-          "start" : 1748960338553,
-          "stop" : 1748960338630,
+          "start" : 1749219460000,
+          "stop" : 1749219460077,
           "duration" : 77
         },
         "status" : "passed",
@@ -194,9 +194,9 @@
       }, {
         "name" : "get #username",
         "time" : {
-          "start" : 1748960338631,
-          "stop" : 1748960338633,
-          "duration" : 2
+          "start" : 1749219460079,
+          "stop" : 1749219460080,
+          "duration" : 1
         },
         "status" : "passed",
         "steps" : [ ],
@@ -218,9 +218,9 @@
       }, {
         "name" : "type user",
         "time" : {
-          "start" : 1748960338634,
-          "stop" : 1748960338737,
-          "duration" : 103
+          "start" : 1749219460082,
+          "stop" : 1749219460184,
+          "duration" : 102
         },
         "status" : "passed",
         "steps" : [ ],
@@ -239,9 +239,9 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1748960338738,
-          "stop" : 1748960338740,
-          "duration" : 2
+          "start" : 1749219460186,
+          "stop" : 1749219460187,
+          "duration" : 1
         },
         "status" : "passed",
         "steps" : [ ],
@@ -263,8 +263,8 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1748960338741,
-          "stop" : 1748960338814,
+          "start" : 1749219460189,
+          "stop" : 1749219460262,
           "duration" : 73
         },
         "status" : "passed",
@@ -287,9 +287,9 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1748960338815,
-          "stop" : 1748960338816,
-          "duration" : 1
+          "start" : 1749219460263,
+          "stop" : 1749219460265,
+          "duration" : 2
         },
         "status" : "passed",
         "steps" : [ ],
@@ -311,9 +311,9 @@
       }, {
         "name" : "clear",
         "time" : {
-          "start" : 1748960338818,
-          "stop" : 1748960338891,
-          "duration" : 73
+          "start" : 1749219460266,
+          "stop" : 1749219460340,
+          "duration" : 74
         },
         "status" : "passed",
         "steps" : [ ],
@@ -332,8 +332,8 @@
       }, {
         "name" : "get #password",
         "time" : {
-          "start" : 1748960338892,
-          "stop" : 1748960338893,
+          "start" : 1749219460342,
+          "stop" : 1749219460343,
           "duration" : 1
         },
         "status" : "passed",
@@ -356,9 +356,9 @@
       }, {
         "name" : "type 12345",
         "time" : {
-          "start" : 1748960338895,
-          "stop" : 1748960339004,
-          "duration" : 109
+          "start" : 1749219460344,
+          "stop" : 1749219460452,
+          "duration" : 108
         },
         "status" : "passed",
         "steps" : [ ],
@@ -384,16 +384,16 @@
     }, {
       "name" : "E **clico no botão Entrar**",
       "time" : {
-        "start" : 1748960339009,
-        "stop" : 1748960339086,
-        "duration" : 77
+        "start" : 1749219460457,
+        "stop" : 1749219460538,
+        "duration" : 81
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "get button[type=\"submit\"]",
         "time" : {
-          "start" : 1748960339011,
-          "stop" : 1748960339012,
+          "start" : 1749219460460,
+          "stop" : 1749219460461,
           "duration" : 1
         },
         "status" : "passed",
@@ -416,9 +416,9 @@
       }, {
         "name" : "click",
         "time" : {
-          "start" : 1748960339013,
-          "stop" : 1748960339085,
-          "duration" : 72
+          "start" : 1749219460462,
+          "stop" : 1749219460538,
+          "duration" : 76
         },
         "status" : "passed",
         "steps" : [ ],
@@ -447,9 +447,9 @@
     }, {
       "name" : "Quando **clico no botão Sair**",
       "time" : {
-        "start" : 1748960339090,
-        "stop" : 1748960343182,
-        "duration" : 4092
+        "start" : 1749219460542,
+        "stop" : 1749219464620,
+        "duration" : 4078
       },
       "status" : "failed",
       "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
@@ -457,20 +457,20 @@
       "steps" : [ {
         "name" : "get #logoutButton",
         "time" : {
-          "start" : 1748960339092,
-          "stop" : 1748960343182,
-          "duration" : 4090
+          "start" : 1749219460544,
+          "stop" : 1749219464620,
+          "duration" : 4076
         },
         "status" : "failed",
         "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
         "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.\n    at BasePage.click (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13967:14)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:14107:19)\n    at Registry.runStepDefininition (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:10415:48)\n    at Object.fn (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13369:43)\n    at runStepWithLogGroup (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:12856:29)\n    at Context.eval (https://pedrothh.github.io/__cypress/tests?p=cypress/e2e/logout.feature:13365:62)\n    at getRet (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:118318:20)\n    at tryCatcher (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://pedrothh.github.io/__cypress/runner/cypress_runner.js:4285:29)",
         "steps" : [ ],
         "attachments" : [ {
-          "uid" : "3e53ae8d68ded8fd",
+          "uid" : "1def8c054b659a69",
           "name" : "Logout -- Logout bem-sucedido (failed).png",
-          "source" : "3e53ae8d68ded8fd.png",
+          "source" : "1def8c054b659a69.png",
           "type" : "image/png",
-          "size" : 237715
+          "size" : 237708
         } ],
         "parameters" : [ {
           "name" : "Selector",
@@ -499,77 +499,26 @@
     "hasContent" : true
   },
   "afterStages" : [ {
-    "name" : "\"after all\" hook",
-    "time" : {
-      "start" : 1748960343483,
-      "stop" : 1748960343484,
-      "duration" : 1
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
-    "hasContent" : false
-  }, {
-    "name" : "Cypress video",
-    "time" : {
-      "start" : 1748960344895,
-      "stop" : 1748960344895,
-      "duration" : 0
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "7b37bed9bc76259f",
-      "name" : "Cypress video",
-      "source" : "7b37bed9bc76259f.mp4",
-      "type" : "video/mp4",
-      "size" : 490990
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  }, {
     "name" : "\"after each\" hook",
     "time" : {
-      "start" : 1748960343186,
-      "stop" : 1748960343187,
-      "duration" : 1
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
-    "hasContent" : false
-  }, {
-    "name" : "\"after each\" hook",
-    "time" : {
-      "start" : 1748960343201,
-      "stop" : 1748960343470,
-      "duration" : 269
+      "start" : 1749219464639,
+      "stop" : 1749219464928,
+      "duration" : 289
     },
     "status" : "passed",
     "steps" : [ {
       "name" : "Logout bem-sucedido -- after each hook.png",
       "time" : {
-        "start" : 1748960343203,
-        "stop" : 1748960343469,
-        "duration" : 266
+        "start" : 1749219464641,
+        "stop" : 1749219464926,
+        "duration" : 285
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "638a875c3d905b86",
+        "uid" : "af7ad31f640071da",
         "name" : "Logout bem-sucedido -- after each hook.png",
-        "source" : "638a875c3d905b86.png",
+        "source" : "af7ad31f640071da.png",
         "type" : "image/png",
         "size" : 285951
       } ],
@@ -596,7 +545,7 @@
         "value" : "279.25 KB"
       }, {
         "name" : "takenAt",
-        "value" : "2025-06-03T14:19:03.216Z"
+        "value" : "2025-06-06T14:17:44.658Z"
       }, {
         "name" : "dimensions",
         "value" : "1000px x 660px"
@@ -614,7 +563,7 @@
         "value" : "/home/runner/work/automacao-e2e-cypress-cucumber/automacao-e2e-cypress-cucumber/cypress/screenshots/logout.feature/Logout bem-su..."
       }, {
         "name" : "duration",
-        "value" : "264ms"
+        "value" : "283ms"
       } ],
       "stepsCount" : 0,
       "attachmentsCount" : 1,
@@ -624,6 +573,57 @@
     "attachments" : [ ],
     "parameters" : [ ],
     "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "\"after each\" hook",
+    "time" : {
+      "start" : 1749219464624,
+      "stop" : 1749219464625,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "\"after all\" hook",
+    "time" : {
+      "start" : 1749219464940,
+      "stop" : 1749219464941,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "Cypress video",
+    "time" : {
+      "start" : 1749219466357,
+      "stop" : 1749219466358,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dd288858bd29a47a",
+      "name" : "Cypress video",
+      "source" : "dd288858bd29a47a.mp4",
+      "type" : "video/mp4",
+      "size" : 498102
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
     "attachmentsCount" : 1,
     "shouldDisplayMessage" : false,
     "hasContent" : true
@@ -642,7 +642,7 @@
     "value" : "pkrvmf6wy0o8zjz"
   }, {
     "name" : "thread",
-    "value" : "pid-2509-worker-main"
+    "value" : "pid-2680-worker-main"
   }, {
     "name" : "package",
     "value" : "cypress.e2e.logout.feature"
@@ -672,18 +672,18 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "7bc0144f9ae6c8a5",
+        "uid" : "ee8ca42bc29c5cb5",
         "status" : "failed",
         "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
         "time" : {
-          "start" : 1748960338333,
-          "stop" : 1748960343182,
-          "duration" : 4849
+          "start" : 1749219459776,
+          "stop" : 1749219464620,
+          "duration" : 4844
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "c9622b86e071773e.json",
+  "source" : "a14fd2571ac8c594.json",
   "parameterValues" : [ ]
 }
