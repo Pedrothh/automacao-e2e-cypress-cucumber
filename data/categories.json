@@ -7,13 +7,13 @@
       "name" : "Timed out retrying after 4000ms: expected 'https://pedrothh.github.io/my-public-front-for-tests/' to include '/home'",
       "children" : [ {
         "name" : "Login bem-sucedido",
-        "uid" : "463c31be225742ea",
+        "uid" : "67616212dd00ed9f",
         "parentUid" : "ed4d6c8cefb60aeae81cdd3ac69536a9",
         "status" : "failed",
         "time" : {
-          "start" : 1749219445643,
-          "stop" : 1749219450616,
-          "duration" : 4973
+          "start" : 1749518871995,
+          "stop" : 1749518876962,
+          "duration" : 4967
         },
         "flaky" : false,
         "newFailed" : false,
@@ -24,13 +24,13 @@
       "name" : "Timed out retrying after 4000ms: Expected to find element: `#logoutButton`, but never found it.",
       "children" : [ {
         "name" : "Logout bem-sucedido",
-        "uid" : "a14fd2571ac8c594",
+        "uid" : "95b03c71721594a6",
         "parentUid" : "cff89d617bd7148b8709fa7f1d2a32ae",
         "status" : "failed",
         "time" : {
-          "start" : 1749219459776,
-          "stop" : 1749219464620,
-          "duration" : 4844
+          "start" : 1749518885986,
+          "stop" : 1749518890812,
+          "duration" : 4826
         },
         "flaky" : false,
         "newFailed" : false,

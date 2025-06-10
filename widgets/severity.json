@@ -1,20 +1,20 @@
 [ {
-  "uid" : "463c31be225742ea",
+  "uid" : "67616212dd00ed9f",
   "name" : "Login bem-sucedido",
   "time" : {
-    "start" : 1749219445643,
-    "stop" : 1749219450616,
-    "duration" : 4973
+    "start" : 1749518871995,
+    "stop" : 1749518876962,
+    "duration" : 4967
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "a14fd2571ac8c594",
+  "uid" : "95b03c71721594a6",
   "name" : "Logout bem-sucedido",
   "time" : {
-    "start" : 1749219459776,
-    "stop" : 1749219464620,
-    "duration" : 4844
+    "start" : 1749518885986,
+    "stop" : 1749518890812,
+    "duration" : 4826
   },
   "status" : "failed",
   "severity" : "normal"
